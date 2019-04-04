@@ -1,0 +1,19 @@
+fieldset
+{
+  width:300px;
+  height:250px;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+input.btn_submit
+{
+  border-style:dashed;
+  position:absolute;
+  bottom: 0.5em;
+  right:10px;
+  background-color:#f1ff00;
+}
